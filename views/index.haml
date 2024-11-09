@@ -1,0 +1,5 @@
+%form{:method=>'POST',:action=>'/'}
+  %input{:name=>'url'}
+  %button{:type=>'submit'} Encurtar
+
+%a{:href=>shortened_url}= shortened_url
