@@ -1,3 +1,5 @@
-# Encurtador-de-links
-# Encurtador-de-links
-# Encurtador-de-links
+# URL shortener
+```sh
+$> bundle install
+$> ruby main.rb
+```
